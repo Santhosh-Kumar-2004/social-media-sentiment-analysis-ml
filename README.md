@@ -1,1 +1,1 @@
-# social-media-sentiment-analysis-ml
+# social-media-sentiment-analysis-machine-learning
